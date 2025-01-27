@@ -1,6 +1,5 @@
 
 ## Paste your proxies inside ```proxy_list.txt``` and the User ID inside ```id.txt```
-# [GET PROXIES FROM HERE](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
 
 # How to Get GRASS User ID
 
@@ -74,7 +73,7 @@ CARGO_BUILD_TARGET="$(rustc -Vv | grep "host" | awk '{print $2}')" pip install m
 pkg install git
 ```
 ```
-git clone https://github.com/ashtrobe/grass-farming-lite.git
+git clone https://github.com/YTforestarmy/grass0.git
 ```
 ```
 cd grass-farming-ext
